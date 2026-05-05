@@ -1,0 +1,4 @@
+Model,Performance Score,Interpretability Score,Deployment Score
+Logistic Regression,7,9,9
+Decision Tree,8,8,8
+Random Forest,9,7,8
